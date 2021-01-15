@@ -1,2 +1,0 @@
-not:doesn,doesnt,don,dont,didn,didnt,wouldnt,wouldn,cant,couldn,wont,wasnt,wasn,isn,isnt,aren,arent,weren,werent
-asd:asd
